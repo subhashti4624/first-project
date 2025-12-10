@@ -1,5 +1,5 @@
 # selenium 4
-from selenium import webdriver
+from selenium import webdrive   
 from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
 import time
@@ -9,11 +9,10 @@ driver.get("https://matrixs.ai/")
 # there is no need to use time.sleep(20)
 time.sleep(20)
 
-driver.find_element
+driver.find_element(BY ID)
 
 # first step :- git add ./ ("first code")
 # second step :- git commit -m 'you message'.git
-# third step :- git push origin main/ pull
-
+# third step :- git push origin main/   
 
 
