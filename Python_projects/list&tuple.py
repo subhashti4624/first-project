@@ -53,3 +53,6 @@ list3 = input("What is your Third movie ? ")
 
 moive = [list1, list2, list3]
 print(moive)
+
+
+# plaindrome mean back and upper side are same example :- (ma,am, racecar,)x
