@@ -24,6 +24,6 @@ num = int(input("Enter number :  "))
 rem = num % 2
 
 if (rem == 0):
-    print("hyryry")
+    print("hyryr  wefweoiwe  ewlknwey")
 else :
-    print("Odd")
+    print("wgregreOdd")
