@@ -18,3 +18,7 @@ password.send_keys("Test@123")
 
 # FIX — choose the correct one:
 driver.find_element(By.XPATH, "//button[@type='submit']").click()
+
+
+
+
